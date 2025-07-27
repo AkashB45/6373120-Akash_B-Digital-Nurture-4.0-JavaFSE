@@ -1,0 +1,22 @@
+/* src/Stylesheets/mystyle.css */
+
+.score-container {
+  background-color: #f0f8ff;
+  border: 2px solid #009688;
+  padding: 20px;
+  border-radius: 10px;
+  width: 400px;
+  margin: 40px auto;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+
+.score-container h2 {
+  color: #00796b;
+  text-align: center;
+}
+
+.score-container p {
+  font-size: 16px;
+  margin: 5px 0;
+}
